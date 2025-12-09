@@ -1,0 +1,2071 @@
+[ {
+  "uid" : "2025-11-28-345",
+  "date" : "2025-11-28",
+  "time" : "15:50:29",
+  "message" : "❌ Error setting up Word-style editor pages: headerWrapper is not definedReferenceError: headerWrapper is not defined    at PageSetupManager.setupEditorPages (http://127.0.0.1:5501/vide_interactive/js/page-setup-manager.js:7949:9)    at createBatch (http://127.0.0.1:5501/vide_interactive/js/page-setup-manager.js:5201:14)    at PageSetupManager.applyPageSetup (http://127.0.0.1:5501/vide_interactive/js/page-setup-manager.js:5215:5)    at HTMLDocument.<anonymous> (http://127.0.0.1:5501/vide_interactive/js/page-setup-manager.js:4943:14)",
+  "level" : "ERROR"
+}, {
+  "uid" : "2025-11-28-344",
+  "date" : "2025-11-28",
+  "time" : "14:25:27",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-343",
+  "date" : "2025-11-28",
+  "time" : "14:19:56",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-342",
+  "date" : "2025-11-28",
+  "time" : "14:18:46",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-341",
+  "date" : "2025-11-28",
+  "time" : "14:18:45",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-340",
+  "date" : "2025-11-28",
+  "time" : "12:16:07",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-339",
+  "date" : "2025-11-28",
+  "time" : "12:16:07",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-338",
+  "date" : "2025-11-28",
+  "time" : "12:16:07",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-337",
+  "date" : "2025-11-28",
+  "time" : "12:16:07",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-336",
+  "date" : "2025-11-28",
+  "time" : "12:16:07",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-335",
+  "date" : "2025-11-28",
+  "time" : "12:16:07",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-334",
+  "date" : "2025-11-28",
+  "time" : "12:16:07",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-333",
+  "date" : "2025-11-28",
+  "time" : "12:16:07",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-332",
+  "date" : "2025-11-28",
+  "time" : "12:16:07",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-331",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-330",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-329",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-328",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-327",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-326",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-325",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-324",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-323",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-322",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-321",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-320",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-319",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-318",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-317",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-316",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-315",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-314",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-313",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-312",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-311",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-310",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-309",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-308",
+  "date" : "2025-11-28",
+  "time" : "12:16:06",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-307",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-306",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-305",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-304",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-303",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-302",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-301",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-300",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-299",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-298",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-297",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-296",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-295",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-294",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-293",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-292",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-291",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-290",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-289",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-288",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-287",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-286",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-285",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-284",
+  "date" : "2025-11-28",
+  "time" : "12:16:05",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-283",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-282",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-281",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-280",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-279",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-278",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-277",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-276",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-275",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-274",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-273",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-272",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-271",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-270",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-269",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-268",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-267",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-266",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-265",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-264",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-263",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-262",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-261",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-260",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-259",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-258",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-257",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-256",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-255",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-254",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-253",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-252",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-251",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-250",
+  "date" : "2025-11-28",
+  "time" : "12:16:04",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-249",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-248",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-247",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-246",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-245",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-244",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-243",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-242",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-241",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-240",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-239",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-238",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-237",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-236",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-235",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-234",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Skipping innerHTML update - RTE is active",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-233",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-232",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-231",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-230",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-229",
+  "date" : "2025-11-28",
+  "time" : "12:16:03",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-228",
+  "date" : "2025-11-28",
+  "time" : "12:16:02",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-227",
+  "date" : "2025-11-28",
+  "time" : "12:16:02",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-226",
+  "date" : "2025-11-28",
+  "time" : "12:15:54",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-225",
+  "date" : "2025-11-28",
+  "time" : "12:15:54",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-224",
+  "date" : "2025-11-28",
+  "time" : "12:15:54",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-223",
+  "date" : "2025-11-28",
+  "time" : "12:15:54",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-222",
+  "date" : "2025-11-28",
+  "time" : "12:15:54",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-221",
+  "date" : "2025-11-28",
+  "time" : "12:15:54",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-220",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-219",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-218",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-217",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-216",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "Skipping innerHTML update - RTE is active",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-215",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-214",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-213",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-212",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-211",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-210",
+  "date" : "2025-11-28",
+  "time" : "12:15:53",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-209",
+  "date" : "2025-11-28",
+  "time" : "12:15:51",
+  "message" : "Clicked inside same element, continuing edit",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-208",
+  "date" : "2025-11-28",
+  "time" : "12:15:51",
+  "message" : "Content changed in RTE:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-207",
+  "date" : "2025-11-28",
+  "time" : "12:15:51",
+  "message" : "Content after paste:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-206",
+  "date" : "2025-11-28",
+  "time" : "12:15:50",
+  "message" : "Paste event detected",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-205",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-204",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-203",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-202",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-201",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "Enabling RTE...",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-200",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-199",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-198",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-197",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-196",
+  "date" : "2025-11-28",
+  "time" : "12:15:47",
+  "message" : "=== DOUBLE CLICK DETECTED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-195",
+  "date" : "2025-11-28",
+  "time" : "12:15:25",
+  "message" : "Updating element innerHTML (not in RTE mode)",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-194",
+  "date" : "2025-11-28",
+  "time" : "12:10:48",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-193",
+  "date" : "2025-11-28",
+  "time" : "12:10:47",
+  "message" : "Updating element innerHTML (not in RTE mode)",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-192",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-191",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-190",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-189",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-188",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-187",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-186",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-185",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-184",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-183",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-182",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-181",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-180",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-179",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-178",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-177",
+  "date" : "2025-11-28",
+  "time" : "12:10:04",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-176",
+  "date" : "2025-11-28",
+  "time" : "12:10:03",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-175",
+  "date" : "2025-11-28",
+  "time" : "12:10:01",
+  "message" : "Skipping innerHTML update - RTE is active",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-174",
+  "date" : "2025-11-28",
+  "time" : "12:10:00",
+  "message" : "Content changed in RTE:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-173",
+  "date" : "2025-11-28",
+  "time" : "12:10:00",
+  "message" : "Content after paste:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-172",
+  "date" : "2025-11-28",
+  "time" : "12:10:00",
+  "message" : "Paste event detected",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-171",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-170",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-169",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-168",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-167",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "Enabling RTE...",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-166",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-165",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-164",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-163",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-162",
+  "date" : "2025-11-28",
+  "time" : "12:09:56",
+  "message" : "=== DOUBLE CLICK DETECTED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-161",
+  "date" : "2025-11-28",
+  "time" : "12:08:56",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-160",
+  "date" : "2025-11-28",
+  "time" : "12:08:55",
+  "message" : "Updating element innerHTML (not in RTE mode)",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-159",
+  "date" : "2025-11-28",
+  "time" : "12:07:41",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-158",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-157",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-156",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-155",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-154",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-153",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-152",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Skipping innerHTML update - RTE is active",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-151",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-150",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-149",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-148",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-147",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-146",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-145",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-144",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-143",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-142",
+  "date" : "2025-11-28",
+  "time" : "12:07:38",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-141",
+  "date" : "2025-11-28",
+  "time" : "12:07:37",
+  "message" : "Content changed in RTE:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-140",
+  "date" : "2025-11-28",
+  "time" : "12:07:37",
+  "message" : "Content after paste:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-139",
+  "date" : "2025-11-28",
+  "time" : "12:07:36",
+  "message" : "Paste event detected",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-138",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-137",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-136",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-135",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-134",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-133",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "=== DOUBLE CLICK DETECTED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-132",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "Enabling RTE...",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-131",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-130",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-129",
+  "date" : "2025-11-28",
+  "time" : "12:07:28",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-128",
+  "date" : "2025-11-28",
+  "time" : "11:40:21",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-127",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-126",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-125",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-124",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-123",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-122",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-121",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-120",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-119",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-118",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-117",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-116",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-115",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-114",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-113",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-112",
+  "date" : "2025-11-28",
+  "time" : "11:40:20",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-111",
+  "date" : "2025-11-28",
+  "time" : "11:40:19",
+  "message" : "Skipping innerHTML update - RTE is active",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-110",
+  "date" : "2025-11-28",
+  "time" : "11:40:19",
+  "message" : "Content changed in RTE:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-109",
+  "date" : "2025-11-28",
+  "time" : "11:40:19",
+  "message" : "Content after paste:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-108",
+  "date" : "2025-11-28",
+  "time" : "11:40:19",
+  "message" : "Paste event detected",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-107",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-106",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-105",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-104",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-103",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-102",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-101",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-100",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-99",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-98",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-97",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-96",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-95",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-94",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-93",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-92",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "RTE already active, forcing stop first",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-91",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "=== FORCE STOP RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-90",
+  "date" : "2025-11-28",
+  "time" : "11:40:17",
+  "message" : "Forcing RTE to stop",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-89",
+  "date" : "2025-11-28",
+  "time" : "11:40:16",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-88",
+  "date" : "2025-11-28",
+  "time" : "11:40:16",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-87",
+  "date" : "2025-11-28",
+  "time" : "11:40:16",
+  "message" : "=== DOUBLE CLICK DETECTED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-86",
+  "date" : "2025-11-28",
+  "time" : "11:40:16",
+  "message" : "Clicked inside same element, continuing edit",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-85",
+  "date" : "2025-11-28",
+  "time" : "11:40:15",
+  "message" : "Clicked inside same element, continuing edit",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-84",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-83",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-82",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-81",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-80",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "Enabling RTE...",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-79",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-78",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-77",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-76",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-75",
+  "date" : "2025-11-28",
+  "time" : "11:39:56",
+  "message" : "=== DOUBLE CLICK DETECTED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-74",
+  "date" : "2025-11-28",
+  "time" : "11:39:29",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-73",
+  "date" : "2025-11-28",
+  "time" : "11:39:28",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-72",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-71",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-70",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-69",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-68",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-67",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-66",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-65",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-64",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Skipping innerHTML update - RTE is active",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-63",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-62",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-61",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-60",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-59",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-58",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-57",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-56",
+  "date" : "2025-11-28",
+  "time" : "11:39:25",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-55",
+  "date" : "2025-11-28",
+  "time" : "11:39:24",
+  "message" : "Content changed in RTE:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-54",
+  "date" : "2025-11-28",
+  "time" : "11:39:24",
+  "message" : "Content after paste:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-53",
+  "date" : "2025-11-28",
+  "time" : "11:39:24",
+  "message" : "Paste event detected",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-52",
+  "date" : "2025-11-28",
+  "time" : "11:39:21",
+  "message" : "Clicked inside same element, continuing edit",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-51",
+  "date" : "2025-11-28",
+  "time" : "11:39:19",
+  "message" : "Clicked inside same element, continuing edit",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-50",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-49",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-48",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-47",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-46",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "=== DOUBLE CLICK DETECTED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-45",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-44",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-43",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-42",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-41",
+  "date" : "2025-11-28",
+  "time" : "11:39:15",
+  "message" : "Enabling RTE...",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-40",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "RTE stop complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-39",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Removing escape key handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-38",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Disabling RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-37",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "RTE disabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-36",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Restoring original actions",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-35",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Original actions restored",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-34",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Skipping innerHTML update - RTE is active",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-33",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Disabling RTE from exit handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-32",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "=== STOPPING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-31",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Removing event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-30",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Removing global click handler",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-29",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "=== RTE EXIT TRIGGERED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-28",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Content on exit:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-27",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Format type:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-26",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Setting raw content:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-25",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Validation passed, updating content",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-24",
+  "date" : "2025-11-28",
+  "time" : "11:37:29",
+  "message" : "Clicked outside this element, stopping RTE",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-23",
+  "date" : "2025-11-28",
+  "time" : "11:37:23",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-22",
+  "date" : "2025-11-28",
+  "time" : "11:37:22",
+  "message" : "Content changed in RTE:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-21",
+  "date" : "2025-11-28",
+  "time" : "11:37:22",
+  "message" : "Content after paste:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-20",
+  "date" : "2025-11-28",
+  "time" : "11:37:22",
+  "message" : "Paste event detected",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-19",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "Element focused with cursor positioned",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-18",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "RTE enabled successfully",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-17",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "Adding event listeners",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-16",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "=== DOUBLE CLICK DETECTED ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-15",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "=== STARTING RTE ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-14",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "RTE startup complete",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-13",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "Raw content for editing:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-12",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "Stored original actions:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-11",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "Enabling RTE on element",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-10",
+  "date" : "2025-11-28",
+  "time" : "11:36:34",
+  "message" : "Enabling RTE...",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-9",
+  "date" : "2025-11-28",
+  "time" : "11:20:43",
+  "message" : "⚠️ No components to move after split calculation",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-11-28-8",
+  "date" : "2025-11-28",
+  "time" : "10:43:23",
+  "message" : "Content to render:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-7",
+  "date" : "2025-11-28",
+  "time" : "10:43:23",
+  "message" : "RTE Active:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-6",
+  "date" : "2025-11-28",
+  "time" : "10:43:23",
+  "message" : "Current element innerHTML:",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-5",
+  "date" : "2025-11-28",
+  "time" : "10:43:23",
+  "message" : "=== VIEW RENDER ===",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-4",
+  "date" : "2025-11-28",
+  "time" : "10:41:18",
+  "message" : "Text component initialized successfully!",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-3",
+  "date" : "2025-11-28",
+  "time" : "10:40:56",
+  "message" : "Text component initialized successfully!",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-2",
+  "date" : "2025-11-28",
+  "time" : "10:38:34",
+  "message" : "Text component initialized successfully!",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-28-1",
+  "date" : "2025-11-28",
+  "time" : "10:37:44",
+  "message" : "Text component initialized successfully!",
+  "level" : "INFO"
+} ]

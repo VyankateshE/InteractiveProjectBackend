@@ -1,0 +1,1303 @@
+[ {
+  "uid" : "2025-12-03-217",
+  "date" : "2025-12-03",
+  "time" : "18:13:58",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-216",
+  "date" : "2025-12-03",
+  "time" : "18:13:52",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-215",
+  "date" : "2025-12-03",
+  "time" : "18:13:04",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-214",
+  "date" : "2025-12-03",
+  "time" : "18:13:04",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-213",
+  "date" : "2025-12-03",
+  "time" : "18:13:04",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-212",
+  "date" : "2025-12-03",
+  "time" : "18:13:04",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-211",
+  "date" : "2025-12-03",
+  "time" : "18:13:03",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-210",
+  "date" : "2025-12-03",
+  "time" : "18:13:03",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-209",
+  "date" : "2025-12-03",
+  "time" : "18:13:02",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-208",
+  "date" : "2025-12-03",
+  "time" : "18:13:02",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-207",
+  "date" : "2025-12-03",
+  "time" : "18:13:01",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-206",
+  "date" : "2025-12-03",
+  "time" : "18:13:01",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-205",
+  "date" : "2025-12-03",
+  "time" : "18:12:55",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-204",
+  "date" : "2025-12-03",
+  "time" : "18:12:48",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-203",
+  "date" : "2025-12-03",
+  "time" : "18:12:48",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-202",
+  "date" : "2025-12-03",
+  "time" : "18:12:46",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-201",
+  "date" : "2025-12-03",
+  "time" : "18:12:42",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-200",
+  "date" : "2025-12-03",
+  "time" : "18:12:42",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-199",
+  "date" : "2025-12-03",
+  "time" : "18:12:40",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-198",
+  "date" : "2025-12-03",
+  "time" : "18:12:31",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-197",
+  "date" : "2025-12-03",
+  "time" : "18:12:31",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-196",
+  "date" : "2025-12-03",
+  "time" : "18:12:29",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-195",
+  "date" : "2025-12-03",
+  "time" : "18:12:25",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-194",
+  "date" : "2025-12-03",
+  "time" : "18:12:25",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-193",
+  "date" : "2025-12-03",
+  "time" : "18:12:23",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-192",
+  "date" : "2025-12-03",
+  "time" : "18:12:19",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-191",
+  "date" : "2025-12-03",
+  "time" : "18:12:19",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-190",
+  "date" : "2025-12-03",
+  "time" : "18:12:17",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-189",
+  "date" : "2025-12-03",
+  "time" : "18:12:10",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-188",
+  "date" : "2025-12-03",
+  "time" : "18:12:10",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-187",
+  "date" : "2025-12-03",
+  "time" : "18:12:09",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-186",
+  "date" : "2025-12-03",
+  "time" : "18:12:08",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-185",
+  "date" : "2025-12-03",
+  "time" : "18:12:07",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-184",
+  "date" : "2025-12-03",
+  "time" : "18:12:06",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-183",
+  "date" : "2025-12-03",
+  "time" : "18:12:06",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-182",
+  "date" : "2025-12-03",
+  "time" : "18:12:05",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-181",
+  "date" : "2025-12-03",
+  "time" : "18:12:04",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-180",
+  "date" : "2025-12-03",
+  "time" : "18:12:03",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-179",
+  "date" : "2025-12-03",
+  "time" : "18:12:03",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-178",
+  "date" : "2025-12-03",
+  "time" : "18:12:02",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-177",
+  "date" : "2025-12-03",
+  "time" : "18:12:02",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-176",
+  "date" : "2025-12-03",
+  "time" : "18:12:01",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-175",
+  "date" : "2025-12-03",
+  "time" : "18:12:00",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-174",
+  "date" : "2025-12-03",
+  "time" : "18:12:00",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-173",
+  "date" : "2025-12-03",
+  "time" : "18:11:59",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-172",
+  "date" : "2025-12-03",
+  "time" : "18:11:59",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-171",
+  "date" : "2025-12-03",
+  "time" : "18:11:59",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-170",
+  "date" : "2025-12-03",
+  "time" : "18:05:21",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-169",
+  "date" : "2025-12-03",
+  "time" : "18:05:21",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-168",
+  "date" : "2025-12-03",
+  "time" : "18:05:20",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-167",
+  "date" : "2025-12-03",
+  "time" : "18:05:20",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-166",
+  "date" : "2025-12-03",
+  "time" : "18:05:15",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-165",
+  "date" : "2025-12-03",
+  "time" : "18:02:55",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-164",
+  "date" : "2025-12-03",
+  "time" : "18:02:55",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-163",
+  "date" : "2025-12-03",
+  "time" : "18:02:54",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-162",
+  "date" : "2025-12-03",
+  "time" : "18:02:54",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-161",
+  "date" : "2025-12-03",
+  "time" : "18:02:53",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-160",
+  "date" : "2025-12-03",
+  "time" : "18:02:53",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-159",
+  "date" : "2025-12-03",
+  "time" : "18:02:53",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-158",
+  "date" : "2025-12-03",
+  "time" : "18:02:53",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-157",
+  "date" : "2025-12-03",
+  "time" : "18:02:52",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-156",
+  "date" : "2025-12-03",
+  "time" : "18:02:52",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-155",
+  "date" : "2025-12-03",
+  "time" : "18:02:44",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-154",
+  "date" : "2025-12-03",
+  "time" : "17:27:55",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-153",
+  "date" : "2025-12-03",
+  "time" : "17:27:55",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-152",
+  "date" : "2025-12-03",
+  "time" : "17:27:55",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-151",
+  "date" : "2025-12-03",
+  "time" : "17:27:54",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-150",
+  "date" : "2025-12-03",
+  "time" : "17:27:54",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-149",
+  "date" : "2025-12-03",
+  "time" : "17:27:54",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-148",
+  "date" : "2025-12-03",
+  "time" : "17:27:53",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-147",
+  "date" : "2025-12-03",
+  "time" : "17:27:53",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-146",
+  "date" : "2025-12-03",
+  "time" : "17:27:44",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-145",
+  "date" : "2025-12-03",
+  "time" : "16:56:53",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-144",
+  "date" : "2025-12-03",
+  "time" : "16:56:53",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-143",
+  "date" : "2025-12-03",
+  "time" : "16:56:53",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-142",
+  "date" : "2025-12-03",
+  "time" : "16:56:53",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-141",
+  "date" : "2025-12-03",
+  "time" : "16:56:52",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-140",
+  "date" : "2025-12-03",
+  "time" : "16:56:52",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-139",
+  "date" : "2025-12-03",
+  "time" : "16:56:51",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-138",
+  "date" : "2025-12-03",
+  "time" : "16:56:51",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-137",
+  "date" : "2025-12-03",
+  "time" : "16:56:44",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-136",
+  "date" : "2025-12-03",
+  "time" : "16:43:50",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-135",
+  "date" : "2025-12-03",
+  "time" : "16:43:50",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-134",
+  "date" : "2025-12-03",
+  "time" : "16:43:49",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-133",
+  "date" : "2025-12-03",
+  "time" : "16:43:49",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-132",
+  "date" : "2025-12-03",
+  "time" : "16:43:48",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-131",
+  "date" : "2025-12-03",
+  "time" : "16:43:48",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-130",
+  "date" : "2025-12-03",
+  "time" : "16:43:48",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-129",
+  "date" : "2025-12-03",
+  "time" : "16:43:47",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-128",
+  "date" : "2025-12-03",
+  "time" : "16:43:41",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-127",
+  "date" : "2025-12-03",
+  "time" : "16:43:31",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-126",
+  "date" : "2025-12-03",
+  "time" : "16:43:31",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-125",
+  "date" : "2025-12-03",
+  "time" : "16:43:30",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-124",
+  "date" : "2025-12-03",
+  "time" : "16:43:30",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-123",
+  "date" : "2025-12-03",
+  "time" : "16:43:29",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-122",
+  "date" : "2025-12-03",
+  "time" : "16:43:29",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-121",
+  "date" : "2025-12-03",
+  "time" : "16:43:23",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-120",
+  "date" : "2025-12-03",
+  "time" : "16:43:18",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-119",
+  "date" : "2025-12-03",
+  "time" : "16:43:18",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-118",
+  "date" : "2025-12-03",
+  "time" : "16:43:16",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-117",
+  "date" : "2025-12-03",
+  "time" : "16:43:13",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-116",
+  "date" : "2025-12-03",
+  "time" : "16:43:13",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-115",
+  "date" : "2025-12-03",
+  "time" : "16:43:12",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-114",
+  "date" : "2025-12-03",
+  "time" : "16:43:09",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-113",
+  "date" : "2025-12-03",
+  "time" : "16:43:09",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-112",
+  "date" : "2025-12-03",
+  "time" : "16:43:07",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-111",
+  "date" : "2025-12-03",
+  "time" : "16:43:05",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-110",
+  "date" : "2025-12-03",
+  "time" : "16:43:05",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-109",
+  "date" : "2025-12-03",
+  "time" : "16:43:03",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-108",
+  "date" : "2025-12-03",
+  "time" : "16:42:56",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-107",
+  "date" : "2025-12-03",
+  "time" : "16:42:56",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-106",
+  "date" : "2025-12-03",
+  "time" : "16:42:56",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-105",
+  "date" : "2025-12-03",
+  "time" : "16:42:56",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-104",
+  "date" : "2025-12-03",
+  "time" : "16:42:54",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-103",
+  "date" : "2025-12-03",
+  "time" : "16:42:52",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-102",
+  "date" : "2025-12-03",
+  "time" : "16:42:52",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-101",
+  "date" : "2025-12-03",
+  "time" : "16:42:51",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-100",
+  "date" : "2025-12-03",
+  "time" : "16:42:48",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-99",
+  "date" : "2025-12-03",
+  "time" : "16:42:48",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-98",
+  "date" : "2025-12-03",
+  "time" : "16:42:47",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-97",
+  "date" : "2025-12-03",
+  "time" : "16:42:45",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-96",
+  "date" : "2025-12-03",
+  "time" : "16:42:45",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-95",
+  "date" : "2025-12-03",
+  "time" : "16:42:44",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-94",
+  "date" : "2025-12-03",
+  "time" : "16:42:42",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-93",
+  "date" : "2025-12-03",
+  "time" : "16:42:42",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-92",
+  "date" : "2025-12-03",
+  "time" : "16:42:41",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-91",
+  "date" : "2025-12-03",
+  "time" : "16:42:39",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-90",
+  "date" : "2025-12-03",
+  "time" : "16:42:39",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-89",
+  "date" : "2025-12-03",
+  "time" : "16:42:33",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-88",
+  "date" : "2025-12-03",
+  "time" : "16:42:31",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-87",
+  "date" : "2025-12-03",
+  "time" : "16:42:31",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-86",
+  "date" : "2025-12-03",
+  "time" : "16:42:29",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-85",
+  "date" : "2025-12-03",
+  "time" : "16:42:27",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-84",
+  "date" : "2025-12-03",
+  "time" : "16:42:27",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-83",
+  "date" : "2025-12-03",
+  "time" : "16:42:15",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-82",
+  "date" : "2025-12-03",
+  "time" : "16:42:13",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-81",
+  "date" : "2025-12-03",
+  "time" : "16:42:13",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-80",
+  "date" : "2025-12-03",
+  "time" : "16:42:10",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-79",
+  "date" : "2025-12-03",
+  "time" : "16:42:08",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-78",
+  "date" : "2025-12-03",
+  "time" : "16:42:08",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-77",
+  "date" : "2025-12-03",
+  "time" : "16:42:05",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-76",
+  "date" : "2025-12-03",
+  "time" : "16:42:04",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-75",
+  "date" : "2025-12-03",
+  "time" : "16:42:03",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-74",
+  "date" : "2025-12-03",
+  "time" : "16:42:02",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-73",
+  "date" : "2025-12-03",
+  "time" : "16:42:00",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-72",
+  "date" : "2025-12-03",
+  "time" : "16:42:00",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-71",
+  "date" : "2025-12-03",
+  "time" : "16:41:58",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-70",
+  "date" : "2025-12-03",
+  "time" : "16:41:57",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-69",
+  "date" : "2025-12-03",
+  "time" : "16:41:57",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-68",
+  "date" : "2025-12-03",
+  "time" : "16:41:56",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-67",
+  "date" : "2025-12-03",
+  "time" : "16:41:54",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-66",
+  "date" : "2025-12-03",
+  "time" : "16:41:54",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-65",
+  "date" : "2025-12-03",
+  "time" : "16:41:53",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-64",
+  "date" : "2025-12-03",
+  "time" : "16:41:52",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-63",
+  "date" : "2025-12-03",
+  "time" : "16:41:52",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-62",
+  "date" : "2025-12-03",
+  "time" : "16:41:50",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-61",
+  "date" : "2025-12-03",
+  "time" : "16:41:50",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-60",
+  "date" : "2025-12-03",
+  "time" : "16:41:49",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-59",
+  "date" : "2025-12-03",
+  "time" : "16:41:47",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-58",
+  "date" : "2025-12-03",
+  "time" : "16:27:57",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-57",
+  "date" : "2025-12-03",
+  "time" : "16:27:57",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-56",
+  "date" : "2025-12-03",
+  "time" : "16:27:45",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-55",
+  "date" : "2025-12-03",
+  "time" : "16:27:45",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-54",
+  "date" : "2025-12-03",
+  "time" : "16:27:43",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-53",
+  "date" : "2025-12-03",
+  "time" : "16:27:43",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-52",
+  "date" : "2025-12-03",
+  "time" : "16:26:15",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-51",
+  "date" : "2025-12-03",
+  "time" : "16:26:15",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-50",
+  "date" : "2025-12-03",
+  "time" : "16:26:09",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-49",
+  "date" : "2025-12-03",
+  "time" : "16:26:09",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-48",
+  "date" : "2025-12-03",
+  "time" : "16:25:21",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-47",
+  "date" : "2025-12-03",
+  "time" : "16:25:21",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-46",
+  "date" : "2025-12-03",
+  "time" : "16:23:59",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-45",
+  "date" : "2025-12-03",
+  "time" : "16:23:59",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-44",
+  "date" : "2025-12-03",
+  "time" : "16:23:54",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-43",
+  "date" : "2025-12-03",
+  "time" : "16:23:54",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-42",
+  "date" : "2025-12-03",
+  "time" : "16:17:28",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-41",
+  "date" : "2025-12-03",
+  "time" : "16:17:28",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-40",
+  "date" : "2025-12-03",
+  "time" : "16:17:27",
+  "message" : "\uD83D\uDCCD Last column → hiding overflow only",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-39",
+  "date" : "2025-12-03",
+  "time" : "16:17:27",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-38",
+  "date" : "2025-12-03",
+  "time" : "16:17:12",
+  "message" : "❗ OVERFLOW DETECTED for item: [object HTMLDivElement]",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-37",
+  "date" : "2025-12-03",
+  "time" : "16:08:45",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-36",
+  "date" : "2025-12-03",
+  "time" : "16:07:01",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-35",
+  "date" : "2025-12-03",
+  "time" : "16:02:32",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-34",
+  "date" : "2025-12-03",
+  "time" : "15:54:30",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-33",
+  "date" : "2025-12-03",
+  "time" : "15:50:45",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-32",
+  "date" : "2025-12-03",
+  "time" : "15:50:39",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-31",
+  "date" : "2025-12-03",
+  "time" : "15:46:51",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-30",
+  "date" : "2025-12-03",
+  "time" : "15:46:22",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-29",
+  "date" : "2025-12-03",
+  "time" : "15:46:18",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-28",
+  "date" : "2025-12-03",
+  "time" : "15:39:19",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-27",
+  "date" : "2025-12-03",
+  "time" : "15:39:15",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-26",
+  "date" : "2025-12-03",
+  "time" : "15:39:09",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-25",
+  "date" : "2025-12-03",
+  "time" : "15:39:03",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-24",
+  "date" : "2025-12-03",
+  "time" : "15:34:13",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-23",
+  "date" : "2025-12-03",
+  "time" : "15:33:21",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-22",
+  "date" : "2025-12-03",
+  "time" : "15:29:53",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-21",
+  "date" : "2025-12-03",
+  "time" : "15:24:13",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-20",
+  "date" : "2025-12-03",
+  "time" : "15:24:04",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-19",
+  "date" : "2025-12-03",
+  "time" : "15:13:33",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-18",
+  "date" : "2025-12-03",
+  "time" : "15:13:29",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-17",
+  "date" : "2025-12-03",
+  "time" : "15:11:40",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-16",
+  "date" : "2025-12-03",
+  "time" : "15:11:37",
+  "message" : "JSON Table Split Failed: splitRes was incomplete. Falling back to next block (which is full move).",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-15",
+  "date" : "2025-12-03",
+  "time" : "15:10:15",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-14",
+  "date" : "2025-12-03",
+  "time" : "15:09:03",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-13",
+  "date" : "2025-12-03",
+  "time" : "15:08:56",
+  "message" : "JSON Table Split Failed: splitRes was incomplete. Falling back to next block (which is full move).",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-12",
+  "date" : "2025-12-03",
+  "time" : "15:08:56",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-11",
+  "date" : "2025-12-03",
+  "time" : "14:44:40",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-10",
+  "date" : "2025-12-03",
+  "time" : "14:44:34",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-9",
+  "date" : "2025-12-03",
+  "time" : "14:44:15",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-8",
+  "date" : "2025-12-03",
+  "time" : "14:44:11",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-7",
+  "date" : "2025-12-03",
+  "time" : "14:42:53",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-6",
+  "date" : "2025-12-03",
+  "time" : "14:42:46",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-5",
+  "date" : "2025-12-03",
+  "time" : "14:42:36",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-4",
+  "date" : "2025-12-03",
+  "time" : "14:42:30",
+  "message" : "Error in enhanced HTML export: s.forEach is not a functionTypeError: s.forEach is not a function    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28    at Module.Ge (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:58903:53)    at n.forEach (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1419:40)    at e.mapModel (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40555:21)    at file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:40556:28",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-3",
+  "date" : "2025-12-03",
+  "time" : "14:40:50",
+  "message" : "Table model creation failed t.components(...).forEach is not a functionTypeError: t.components(...).forEach is not a function    at N.ensureInList (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:21902:30)    at n.value (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:22451:43)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:648:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:622:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)    at a.Backbone.s.trigger (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:615:30)    at n._onModelEvent (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:1268:38)    at g (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:652:51)    at h (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:623:32)    at c (file:///C:/Users/visha/Desktop/InteractiveDesigner/SectionContainer/vide_interactive2/js/home.js:470:34)",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-2",
+  "date" : "2025-12-03",
+  "time" : "14:11:11",
+  "message" : "JSON Table Split Failed: splitRes was incomplete. Falling back to next block (which is full move).",
+  "level" : "WARNING"
+}, {
+  "uid" : "2025-12-03-1",
+  "date" : "2025-12-03",
+  "time" : "13:20:41",
+  "message" : "JSON Table Split Failed: splitRes was incomplete. Falling back to next block (which is full move).",
+  "level" : "WARNING"
+} ]

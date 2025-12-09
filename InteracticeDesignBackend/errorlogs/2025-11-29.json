@@ -1,0 +1,19 @@
+[ {
+  "uid" : "2025-11-29-3",
+  "date" : "2025-11-29",
+  "time" : "10:35:10",
+  "message" : "separator worked",
+  "level" : "INFO"
+}, {
+  "uid" : "2025-11-29-2",
+  "date" : "2025-11-29",
+  "time" : "10:22:20",
+  "message" : "EVENT: separator:init",
+  "level" : "EVENT"
+}, {
+  "uid" : "2025-11-29-1",
+  "date" : "2025-11-29",
+  "time" : "10:20:52",
+  "message" : "EVENT: separator:init",
+  "level" : "EVENT"
+} ]
